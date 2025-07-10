@@ -1,12 +1,8 @@
-# React + Vite
+## Assignment submitted by Kartik Mistry 
+Email: kartikmistry301@gmail.com 
+Portfolio: https://kartikmistry.vercel.app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- I have created this landing page using VITE ReactJS and TailwindCSS, so that the whole page can be structured and well maintained.
+- There might be some minor differences between the headlines in some screen dimensions as I downloaded the fonts available from the Internet and have used them for assignment purpose.
+- In some places I might have chose to keep the font size of the paragraph bigger by 2-3 px as it was not looking good with so small font size
+- Have added animations to the interactions using tailwindcss only

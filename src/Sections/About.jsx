@@ -1,5 +1,4 @@
-import React from "react";
-import UspCard from "../components/uspCard";
+import UspCard from "../components/UspCard";
 
 const About = () => {
   return (
