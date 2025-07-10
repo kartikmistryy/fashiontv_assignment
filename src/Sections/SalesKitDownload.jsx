@@ -13,7 +13,6 @@ const SalesKitDownload = () => {
   return (
     <div className="w-full h-full md:min-h-[780px] md:max-h-[780px] min-h-[500px] max-h-[500px] flex justify-center items-center relative p-5">
       <img
-      loading="lazy"
         src="./saleskitdownload/bgHeader.webp"
         alt="saleskitdownloadHeader"
         className="absolute filter grayscale h-fit top-0 left-0 w-full md:min-h-[780px] md:max-h-[780px] min-h-[500px] max-h-[500px] object-cover object-[center_100%] z-[1]"
