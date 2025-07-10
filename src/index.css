@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Fragment';
+    src: url('/fonts/fragment.woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FragmentSerif';
+    src: url('/fonts/fragmentSerif.woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PalaceScript';
+    src: url('/fonts/palaceScript.woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aeonic';
+    src: url('/fonts/aeonic.woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AeonicBold';
+    src: url('/fonts/aeonicBold.woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+    @apply font-body
+}
